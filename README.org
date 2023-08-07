@@ -1,0 +1,9 @@
+* bodge-glfw
+
+Thin wrapper over GLFW library
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/borodust/bodge-glfw.git |
+| commit  | 9e10825                                        |
+| systems | bodge-glfw bodge-glfw-bindings                 |
+|---------+------------------------------------------------|
