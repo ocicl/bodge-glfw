@@ -7,4 +7,4 @@ Thin wrapper over GLFW library
 | commit  | 9e10825                                        |
 | systems | bodge-glfw bodge-glfw-bindings                 |
 |---------+------------------------------------------------|
- 
+  
